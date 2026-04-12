@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      {showWarp && <WarpAnimation onClose={handleClose} />
+      {showWarp && <WarpAnimation onClose={handleClose} />}
       {!showWarp && (
         <div style={{
           display: 'flex',
