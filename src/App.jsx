@@ -4,9 +4,14 @@ import WarpAnimation from './WarpAnimation';
 function App() {
   const [showWarp, setShowWarp] = useState(true);
 
+  const handleClose = () => {
+    console.log('Button clicked!');
+    setShowWarp(false);
+  };
+
   return (
     <>
-      {showWarp && <WarpAnimation onClose={() => setShowWarp(false)} />}
+      {showWarp && <WarpAnimation onClose={handleClose} />
       {!showWarp && (
         <div style={{
           display: 'flex',
