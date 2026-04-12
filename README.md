@@ -4,7 +4,7 @@ React tabanlı, hiperspace/warp drive tarzı yıldız animasyonu.
 
 ## Demo
 
-Canlı demo: **[starfall-animation.vercel.app](https://starfall-animation-cy6m0eawb-ulvs-projects.vercel.app)**
+Canlı demo: **[starfall-animation-cy6m0eawb-ulvs-projects.vercel.app](https://starfall-animation-cy6m0eawb-ulvs-projects.vercel.app)**
 
 ## Özellikler
 
@@ -16,7 +16,7 @@ Canlı demo: **[starfall-animation.vercel.app](https://starfall-animation-cy6m0e
 ## Kurulum
 
 ```bash
-git clone https://github.com/kullanici-adi/starfall-animation.git
+git clone https://github.com/remrah/starfall-animation.git
 cd starfall-animation
 npm install
 npm run dev
