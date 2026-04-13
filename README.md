@@ -1,6 +1,6 @@
 # Starfall Animation
 
-React tabanlı, hiperspace/warp drive tarzı yıldız animasyonu.
+React tabanlı, hyperspace/warp drive tarzı yıldız animasyonu.
 
 ## Demo
 
